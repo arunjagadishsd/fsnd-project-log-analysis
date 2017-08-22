@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import psycopg2
 
 
@@ -66,7 +67,7 @@ def errors():
         print '{} - {}%'.format(i, round(j, 1))
     db_connect.close()
 
-
-top_articles()
-top_authors()
-errors()
+if __name__ == "__main__":
+    top_articles()
+    top_authors()
+    errors()
