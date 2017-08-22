@@ -13,7 +13,7 @@ This view is to get the total no of views in a particular day.
 ```sql
 CREATE VIEW no_of_requests as
 SELECT count(status),CAST(time as date)
-FROM log <br />
+FROM log
 GROUP BY CAST(time as date);
 ```
 ### no_of_errors:
