@@ -1,0 +1,18 @@
+Example Of The Output:
+
+The Top 3 Articles Are:
+
+"Candidate is jerk, alleges rival" - 338647
+"Bears love berries, alleges bear" - 253801
+"Bad things gone, say good people" - 170098
+
+The Authors sorted based on views:
+
+Ursula La Multa - 507594
+Rudolf von Treppenwitz - 423457
+Anonymous Contributor - 170098
+Markoff Chaney - 84557
+
+The day with error more than 1 percentage
+
+2016-07-17 - 2.3%
